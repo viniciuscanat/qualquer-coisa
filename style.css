@@ -1,0 +1,23 @@
+form{
+    font-family:Georgia ;
+    width: 50%;
+    text-align: center;
+    align-items: center;
+    border: 10px solid rgb(63, 6, 197);
+    border-radius: 5px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+    margin-left: 300px;
+    color: rgb(80, 16, 184);
+  border-radius: 5px;
+}
+
+h2{
+    color: rgb(17, 16, 16);
+    font-family:Times;
+}
+
+body{
+    text-align: justify;
+}
